@@ -1,0 +1,9 @@
+{
+  "name": "Workshop Timer - Design Thinking",
+  "short_name": "Workshop Timer",
+  "start_url": "/workshop-timer-dt/",
+  "display": "standalone",
+  "background_color": "#18181b",
+  "theme_color": "#18181b",
+  "description": "Timer interactivo para taller de Design Thinking (4h, 8 equipos)"
+}
